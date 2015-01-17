@@ -8,9 +8,14 @@
     - The decision (React + Flux) and why!
     - Talk about react
       - STORYTIME: how exceptical of react i was at first
-      - Virtual DOM
-      - Pros and Cons
+      - Virtual DOM (Fast rendering performance and why we benefit from it)
+      - Cons?
+      - STORYTIME: talk about Yahoo open source react projects
 - Our Javascript Architecture
-  -
-    
+  - Flux
+    - Flux vs MVC
+  - File Directory Structure
+  - Build System
+    - Intro
+    - Improve loading performance: minimize, browserify
 - Outro

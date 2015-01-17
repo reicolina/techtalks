@@ -15,6 +15,7 @@
   - Flux
     - Flux vs MVC
   - File Directory Structure
+  - Best Practices
   - Build System
     - Intro
     - Improve loading performance: minimize, browserify

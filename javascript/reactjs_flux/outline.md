@@ -1,0 +1,39 @@
+- intro
+    - why?
+      - models and dependecy trees
+      - what is flux: unidirectional data flow
+- body
+    - anatomy
+      - directory tree of a flux app
+        - actions
+          - what is it?
+          - code
+        - dispatcher
+          - what is it?
+          - code
+        - stores
+          - what is it?
+          - code
+          - testing a store
+            - the jest killer line of code
+        - views
+          - what is react
+          - react principles
+          - using react
+            - views and controller views
+            - async requests
+          - code
+    - immutability
+      - react performance boost
+      - should component update
+      - immutable.js
+    - anti patterns
+      - getters in render()
+      - set state from props
+    - flux libraries
+      - flux utils
+      - flummox
+      - reflux
+- outro
+     - plus and cons
+     - questions

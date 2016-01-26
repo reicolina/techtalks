@@ -18,22 +18,16 @@
             - the jest killer line of code
         - views
           - what is react
-          - react principles
-          - using react
-            - views and controller views
-            - async requests
           - code
-    - immutability
-      - react performance boost
-      - should component update
-      - immutable.js
-    - anti patterns
-      - getters in render()
-      - set state from props
+    - Putting it all together
+        - views and controller views
+        - async requests
     - flux libraries
       - flux utils
       - flummox
       - reflux
+- demo
 - outro
-     - plus and cons
-     - questions
+    - recap 
+    - plus and cons
+    - questions

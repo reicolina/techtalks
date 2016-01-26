@@ -26,7 +26,7 @@
       - flux utils
       - flummox
       - reflux
-- demo
+    - demo
 - outro
     - recap 
     - plus and cons
